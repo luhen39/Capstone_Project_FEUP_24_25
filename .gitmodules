@@ -1,7 +1,7 @@
 [submodule "PI_24_25_FEUP"]
 	path = PI_24_25_FEUP
-	url = https://github.com/up202004196/PI_24_25_FEUP
+	url = https://github.com/luhen39/PI_24_25_FEUP
 [submodule "minimal_module_compilation"]
 	path = minimal_module_compilation
-	url = https://github.com/up202004196/minix_milk_v_duo_s.git
+	url = https://github.com/luhen39/minix_milk_v_duo_s.git
 	branch = minimal_module_compilation
