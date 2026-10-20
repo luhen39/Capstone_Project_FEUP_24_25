@@ -20,3 +20,7 @@ Developed in collaboration with **Diogo Leandro**, **Martim Ferreira**, and **An
 ### Note
 
 Please note that both linked repositories contain documentation and comments primarily in Portuguese. English translations are not provided, interested users should translate content as needed.
+
+---
+
+Final Grade: 16/20
